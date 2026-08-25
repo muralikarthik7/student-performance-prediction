@@ -331,6 +331,7 @@ Computer Science
 University of Arizona
 
 Portfolio: https://murali-karthik-ganji.vercel.app/
+
 LinkedIn: https://www.linkedin.com/in/murali-karthik-ganji
 
 ---
