@@ -330,6 +330,8 @@ Potential extensions include:
 Computer Science  
 University of Arizona
 
+Project View: https://student-performance-forecast.streamlit.app/
+
 Portfolio: https://murali-karthik-ganji.vercel.app/
 
 LinkedIn: https://www.linkedin.com/in/murali-karthik-ganji
